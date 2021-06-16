@@ -1,0 +1,11 @@
+# Gitignore for gk_fastinv_sqrt
+
+# Ignore VSCode Files
+.vscode/
+
+# Ignore Build Directories
+_build/
+build/
+builddir/
+debug/
+release/
