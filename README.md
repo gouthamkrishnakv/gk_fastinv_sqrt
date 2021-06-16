@@ -1,6 +1,6 @@
 # gk_fastinv_sqrt
 
-My implementation of the Fast-Inverse Square Root Function
+My implementation of the Fast-Inverse Square Root Function, first seen in Quake III Source Code.
 
 ## Author
 
